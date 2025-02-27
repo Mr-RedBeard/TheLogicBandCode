@@ -4,7 +4,8 @@
 # artificial intelligence "brain". This repository contains code that will show benchmark testing results on the standard
 # artificial neural network and the exact same model but enhanced with the Logic Band mechanism.
 
-#I reserve all rights to the contents of this repository as the developer of the architecture and code. As that 
+#I reserve all rights to the contents of this repository as the developer of the architecture and code. As that creator I
+# grant usage of this architecture as open source software. Contact me for any questions dlsmith323@gmail.com
 
 
 
