@@ -1,5 +1,5 @@
 # TheLogicBand 
-#is an open source neural network architecture that was created by Derek Smith.
+is an open source neural network architecture that was created by Derek Smith.
 
 #This architecture combines knowledge from the field of Neuroscience and the field of Data Science to further develop the
 #artificial intelligence "brain". This repository contains code that will show benchmark testing results on the standard
