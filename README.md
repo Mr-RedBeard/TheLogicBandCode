@@ -6,7 +6,9 @@ artificial intelligence "brain". This repository contains code that will show be
 artificial neural network and the exact same model but enhanced with the Logic Band mechanism.
 
 I reserve all rights to the contents of this repository as the developer of the architecture and code. As that creator I
-grant usage of this architecture as open source software. Contact me for any questions dlsmith323@gmail.com
+grant usage of this architecture as open source software, however credit for intellectual innovation of The Logic Band is
+reserved only for creator: Derek Smith, and use of core concepts and functionality, though allowed, must reference contribution
+of intellectual innovation. Contact me for any questions dlsmith323@gmail.com
 
 
 
