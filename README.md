@@ -14,7 +14,7 @@ of intellectual innovation. Contact me for any questions dlsmith323@gmail.com
 
 MIT License
 
-Copyright (c) [2024] [Derek Smith]
+Copyright (c) [2025] [Derek Smith]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
